@@ -4,7 +4,7 @@
 
 ## 安装
 
-```
+```bash
 pnpm i 
 
 pnpm run dev
