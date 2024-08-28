@@ -1,36 +1,39 @@
-# 日历
+# canlendar 
 
 <p align="center">
   <a href="#chinese">中文</a> | <a href="#english">English</a>
 </p>
 
-> 一个使用 React + TypeScript 构建的响应式日历应用
+> A responsive calendar application built with React + TypeScript
+
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue.svg)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.10-blue.svg)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-### 特性 
 
-- 📅 显示当前日期和时间
-- 🖥️ 响应式设计，支持桌面和移动设备
-- 🌙 月份和年份快速切换
-- 🎨 使用 Tailwind CSS 实现美观的 UI
+### Features
+
+- 📅 Display current date and time
+- 🖥️ Responsive design for desktop and mobile devices
+- 🌙 Quick month and year switching
+- 🎨 Beautiful UI using Tailwind CSS
 
 
-### 预览
+### Preview
 
 <img width="512" alt="截屏2024-08-28 15 35 56" src="https://github.com/user-attachments/assets/a755f154-f4b7-45cc-bdf6-69126c70e0eb">
 
-### 运行
+
+### install
 
 ```bash
 pnpm i 
 
-pnpm run dev 
+pnpm run 
 ```
 
-### 许可证
+### License
 
-本项目采用 MIT 许可证。详情请见 [LICENSE](LICENSE) 文件。
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
