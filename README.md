@@ -1,7 +1,7 @@
 # 日历
 
 <p align="center">
-  <a href="#chinese">中文</a> | <a href="#english">English</a>
+  <a href="./README.md">中文</a> | <a href="./English.md">English</a>
 </p>
 
 > 一个使用 React + TypeScript 构建的响应式日历应用

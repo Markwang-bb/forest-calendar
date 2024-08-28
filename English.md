@@ -1,7 +1,7 @@
 # canlendar 
 
 <p align="center">
-  <a href="#chinese">中文</a> | <a href="#english">English</a>
+  <a href="./README.md">中文</a> | <a href="./English.md">English</a>
 </p>
 
 > A responsive calendar application built with React + TypeScript
